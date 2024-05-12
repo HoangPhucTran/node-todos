@@ -1,0 +1,25 @@
+html {
+    overflow-y: scroll;
+}
+
+body {
+    margin-top: 30px;
+}
+
+#todo-list {
+    margin-bottom: 30px;
+}
+
+#todo-form {
+    margin-bottom: 50px;
+}
+
+.tag-gray {
+    background-color: #edeef0;
+    border-radius: 0;
+    padding: 2rem;
+}
+
+.strike {
+    text-decoration: line-through;
+}
